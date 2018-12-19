@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="file:/C:/Users/seebdcell/Documents/NetBeansProjects/chequesprint/dist/" href="jnlpcomponent1.jnlp" spec="1.0+">
+    <information>
+        <title>jnlpcomponent1</title>
+        <vendor>ECLIPSE_</vendor>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <jar href="lib/org.eclipse.persistence.jpa.jpql_2.5.1.v20130918-f2b9fc5.jar" download="eager"/>
+    </resources>
+    <component-desc/>
+</jnlp>
